@@ -3137,8 +3137,9 @@
 }
 
 .skills svg {
-	height: 45.28px;
-	height: 45.28px;
+	height: 60px;
+	
+
 }
 
 .languages li:not(:last-child) {
@@ -3156,5 +3157,5 @@ ul.languages {
 }
 
 .languages .icons {
-	font-size: 45.28px;
+	font-size: 60px;
 }
